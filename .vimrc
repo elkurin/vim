@@ -7,6 +7,7 @@
 :set number
 :set scrolloff=5
 :set ruler
+:set modeline
 
 if &encoding == 'utf-8'
   set ambiwidth=double
